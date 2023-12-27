@@ -15,7 +15,7 @@
 
 <!-- Rosalina Inspired Projects -->
 - <b>Rosalina Inspired Projects</b>
-  - [GC Content Analyzer for DNA Sequences](https://github.com/Djinho/Djinho.github.io/tree/main/DNA%20Sequence%20Hamming%20Distance%20Calculator)
+  - [GC Content Analyzer for DNA Sequences](https://github.com/Djinho/Djinho.github.io/tree/main/GC%20Content%20Analyzer%20for%20DNA%20Sequences)
   - [DNA Sequence Hamming Distance Calculator](https://github.com/Djinho/Djinho.github.io/tree/main/DNA%20Sequence%20Hamming%20Distance%20Calculator)
   - [Dominant Allele Probability Calculator](https://github.com/Djinho/Djinho.github.io/DominantAlleleProbability)
   - [RNA to Protein Translation Tool](https://github.com/Djinho/Djinho.github.io/RNAtoProteinTranslator)
