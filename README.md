@@ -11,7 +11,7 @@
 <!-- Machine Learning Projects -->
 - <b>Machine Learning Projects</b>
   - [Iris Data-set Machine Learning Project](https://github.com/Djinho/Djinho.github.io/tree/main/Iris%20Data-set%20Machine%20Learning%20Project)
-  - [Natural Language Processing](https://github.com/Djinho/Djinho.github.io/NLPProjects)
+  - [Exploratory Data Analysis of Gene Expression in Dengue Spectrum Disorders](https://github.com/Djinho/Djinho.github.io/NLPProjects)
 
 <!-- Rosalina Inspired Projects -->
 - <b>Rosalina Inspired Projects</b>
