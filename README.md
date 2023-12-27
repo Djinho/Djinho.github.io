@@ -4,7 +4,7 @@
 
 <!-- Bioinformatics Projects -->
 - <b>Bioinformatics Projects</b>
-  - [Genomic Statistical analysis in R](https://github.com/Djinho/Djinho.github.io/BioinformaticsProject1)
+  - [Genomic Statistical analysis in R](https://github.com/Djinho/Djinho.github.io/tree/main/Genomic%20Statistical%20analysis%20in%20R)
   - [Your Bioinformatics Project 2](https://github.com/Djinho/Djinho.github.io/BioinformaticsProject2)
   - ... (Other projects can be listed here)
 
