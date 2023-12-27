@@ -28,12 +28,12 @@
 <h2> 🤳 Connect with me:</h2>
 
 <!-- Social Media Icons -->
-[<img align="left" alt="DjinhoItshary | LinkedIn" width="22px" src="https://www.linkedin.com/in/djinho-itshary-671658254/" />][linkedin]
+[<img align="left" alt="DjinhoItshary | LinkedIn" width="22px" src="" />][linkedin]
 [<img align="left" alt="DjinhoItshary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <!-- Social Media Links -->
 [instagram]: https://www.instagram.com/DjinhoItshary/
-[linkedin]: https://linkedin.com/in/DjinhoItshary
+[linkedin]: https://www.linkedin.com/in/djinho-itshary-671658254/
 
 <!--
 **DjinhoItshary/DjinhoItshary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
