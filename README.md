@@ -28,11 +28,8 @@
 <h2> 🤳 Connect with me:</h2>
 
 <!-- Social Media Icons -->
-<a href="https://www.linkedin.com/in/djinho-itshary-671658254/">
-    <img align="left" alt="DjinhoItshary | LinkedIn" width="22px" src="[URL of the LinkedIn image]" />
-</a>
-
-[<img align="left" alt="DjinhoItshary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Djinho Itshary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Djinho Itshary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <!-- Social Media Links -->
 [instagram]: https://www.instagram.com/DjinhoItshary/
