@@ -18,7 +18,7 @@
   - [GC Content Analyzer for DNA Sequences](https://github.com/Djinho/Djinho.github.io/tree/main/GC%20Content%20Analyzer%20for%20DNA%20Sequences)
   - [DNA Sequence Hamming Distance Calculator](https://github.com/Djinho/Djinho.github.io/tree/main/DNA%20Sequence%20Hamming%20Distance%20Calculator)
   - [Dominant Allele Probability Calculator](https://github.com/Djinho/Djinho.github.io/tree/main/Dominant%20Allele%20Probability%20Calculator)
-  - [RNA to Protein Translation Tool](https://github.com/Djinho/Djinho.github.io/RNAtoProteinTranslator)
+  - [RNA to Protein Translation Tool](https://github.com/Djinho/Djinho.github.io/tree/main/RNA%20to%20Protein%20Translation%20Tool)
 
 <!-- Mini Projects -->
 - <b>Mini Projects</b>
