@@ -10,7 +10,7 @@
 
 <!-- Machine Learning Projects -->
 - <b>Machine Learning Projects</b>
-  - [Image Classification](https://github.com/Djinho/Djinho.github.io/ImageClassification)
+  - [Iris Data-set Machine Learning Project](https://github.com/Djinho/Djinho.github.io/ImageClassification)
   - [Natural Language Processing](https://github.com/Djinho/Djinho.github.io/NLPProjects)
 
 <!-- Rosalina Inspired Projects -->
