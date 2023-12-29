@@ -12,7 +12,7 @@
 - <b>Machine Learning Projects</b>
   - [Iris Data-set Machine Learning Project](https://github.com/Djinho/Djinho.github.io/tree/main/Iris%20Data-set%20Machine%20Learning%20Project)
   - [Exploratory Data Analysis of Gene Expression in Dengue Spectrum Disorders](https://github.com/Djinho/Djinho.github.io/tree/main/Exploratory%20Data%20Analysis%20of%20Gene%20Expression%20in%20Dengue%20Spectrum%20Disorders)
-  - [Sonar Signal Analysis for Object Classification: Differentiating Between Mines and Rocks]
+  - Sonar Signal Analysis for Object Classification: Differentiating Between Mines and Rocks
 
 <!-- Rosalina Inspired Projects -->
 - <b>Rosalina Inspired Projects</b>
