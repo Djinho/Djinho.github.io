@@ -28,4 +28,5 @@ The code includes a predictive system using the trained Logistic Regression mode
 
 Conclusion:
 This project demonstrates the application of a Logistic Regression model to the Sonar dataset from the UCI Machine Learning Repository, effectively classifying objects as mines or rocks based on sonar signals. The model shows good accuracy, particularly in training, underlining its potential for this type of classification task.
+This dataset is from the UCI Machine Learning Repository.
 
