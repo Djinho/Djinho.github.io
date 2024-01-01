@@ -15,7 +15,7 @@
   - [Sonar Signal Analysis for Object Classification: Differentiating Between Mines and Rocks](https://github.com/Djinho/Djinho.github.io/tree/main/Sonar%20Signal%20Analysis%20for%20Object%20Classification%3A%20Differentiating%20Between%20Mines%20and%20Rocks)
   - [Support Vector Machine for Diabetes Prediction](https://github.com/Djinho/Djinho.github.io/tree/main/Sonar%20Signal%20Analysis%20for%20Object%20Classification%3A%20Differentiating%20Between%20Mines%20and%20Rocks)
 
-
+ 
 <!-- Rosalina Inspired Projects -->
 - <b>Rosalina Inspired Projects</b>
   - [GC Content Analyzer for DNA Sequences](https://github.com/Djinho/Djinho.github.io/tree/main/GC%20Content%20Analyzer%20for%20DNA%20Sequences)
