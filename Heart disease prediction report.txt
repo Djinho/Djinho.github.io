@@ -17,3 +17,4 @@ Dependencies
 NumPy
 Pandas
 scikit-learn (train_test_split, LogisticRegression, accuracy_score, make_classification, StandardScaler)
+The dataset used was from the UCI Machine Learning Repository.
