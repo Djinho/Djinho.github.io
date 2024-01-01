@@ -1,0 +1,19 @@
+ Report: Support Vector Machine for Diabetes Prediction
+Overview
+This project involves the development of a predictive model based on the Support Vector Machine (SVM) algorithm to identify the presence of diabetes in individuals. Utilizing a dataset with health-related features, the SVM classifier is trained and evaluated to measure its performance.
+
+Methodology
+Data Preprocessing
+The data is standardized using StandardScaler to ensure that the SVM algorithm receives data without bias due to variable scales.
+The dataset is split into a training set and a test set with a ratio of 70:30 using train_test_split, stratified by the outcome variable to maintain the proportion of classes.
+Model Training
+An SVM classifier with a linear kernel is trained on the standardized data.
+Model Evaluation
+The model's performance is evaluated on both the training and test data using the accuracy_score metric.
+Results
+The SVM model achieved a training accuracy of approximately 78.02%, indicating that the classifier has a good fit on the training data.
+On the test dataset, the model showed a test accuracy of approximately 77.49%, suggesting that the model generalizes well to new, unseen data.
+Dependencies
+NumPy (for numerical operations)
+Pandas (for data manipulation)
+scikit-learn (for machine learning functionalities including StandardScaler, train_test_split, svm, and accuracy_score)
