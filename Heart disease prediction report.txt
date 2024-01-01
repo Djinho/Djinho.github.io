@@ -1,0 +1,19 @@
+Report: Logistic Regression for Heart Disease Prediction
+Overview
+This project leverages a logistic regression model to predict heart disease presence based on various health indicators. The aim is to develop a reliable classifier that can assist in early diagnosis and intervention.
+
+Methodology
+Data Preprocessing
+The dataset is preprocessed using Pandas for data manipulation and StandardScaler for feature scaling.
+Data is split into training and test sets with train_test_split from scikit-learn, ensuring a balanced representation of the target variable.
+Model Training
+A logistic regression classifier is trained on the dataset, implemented using scikit-learn's LogisticRegression.
+Model Evaluation
+The model's accuracy is evaluated on both training and test sets using the accuracy_score metric from scikit-learn.
+Results
+The logistic regression model obtained a training accuracy of 94.75%, demonstrating excellent learning from the training data.
+The model achieved a test accuracy of 93%, indicating strong predictive performance on unseen data.
+Dependencies
+NumPy
+Pandas
+scikit-learn (train_test_split, LogisticRegression, accuracy_score, make_classification, StandardScaler)
