@@ -5,8 +5,8 @@
 <!-- Bioinformatics Projects -->
 - <b>Bioinformatics Projects</b>
   - [Genomic Statistical analysis in R](https://github.com/Djinho/Djinho.github.io/tree/main/Genomic%20Statistical%20analysis%20in%20R)
-  - [Your Bioinformatics Project 2](https://github.com/Djinho/Djinho.github.io/BioinformaticsProject2)
-  - ... (Other projects can be listed here)
+  - 
+    
 
 <!-- Machine Learning Projects -->
 - <b>Machine Learning Projects</b>
@@ -26,9 +26,7 @@
 
 <!-- Mini Projects -->
 - <b>Mini Projects</b>
-  - [Automation Scripts](https://github.com/Djinho/Djinho.github.io/AutomationScripts)
-  - [Game Mods and Add-ons](https://github.com/Djinho/Djinho.github.io/GameMods)
-
+  
 <h2> 🤳 Connect with me:</h2>
 
 <!-- Social Media Icons -->
