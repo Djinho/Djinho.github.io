@@ -16,9 +16,6 @@
   - <a href="https://github.com/Djinho/Djinho.github.io/tree/main/Dominant%20Allele%20Probability%20Calculator">Dominant Allele Probability Calculator</a>
   - <a href="https://github.com/Djinho/Djinho.github.io/tree/main/RNA%20to%20Protein%20Translation%20Tool">RNA to Protein Translation Tool</a>
 
-<!-- Mini Projects -->
-- <b>Mini Projects</b>
-
 <h2> 🤳 Connect with me:</h2>
 
 <!-- Social Media Icons -->
