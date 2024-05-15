@@ -27,9 +27,9 @@
 <!-- Social Media Links -->
 [linkedin]: https://www.linkedin.com/in/djinho-itshary-671658254/
 
-<!--
+
 **DjinhoItshary/DjinhoItshary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 This repo is for small and mini fun projects to help me build my coding and data science acumen.
--->
+
 
