@@ -1,4 +1,4 @@
-<h1>Hi, I'm Djinho Itshary! <br/><a href="https://github.com/Djinho/Djinho.github.io">Programmer</a>, <a href="https://www.linkedin.com/in/djinhoitshary/">Bioinformatics Enthusiast</a></h1>
+<h1>Hi, I'm Djinho Itshary! <br/><a href="https://github.com/Djinho/Djinho.github.io">Programmer</a>, <a href="https://www.linkedin.com/in/djinho-itshary-671658254/">Bioinformatics Enthusiast</a></h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
@@ -27,9 +27,4 @@
 <!-- Social Media Links -->
 [linkedin]: https://www.linkedin.com/in/djinho-itshary-671658254/
 
-
-**DjinhoItshary/DjinhoItshary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 This repo is for small and mini fun projects to help me build my coding and data science acumen.
-
-
