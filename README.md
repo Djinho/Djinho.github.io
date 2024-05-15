@@ -2,16 +2,9 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-<!-- Bioinformatics Projects -->
-- <b>Bioinformatics Projects</b>
-  - [Genomic Statistical analysis in R](https://github.com/Djinho/Djinho.github.io/tree/main/Genomic%20Statistical%20analysis%20in%20R)
-  - 
-    
-
 <!-- Machine Learning Projects -->
 - <b>Machine Learning Projects</b>
   - [Iris Data-set Machine Learning Project](https://github.com/Djinho/Djinho.github.io/tree/main/Iris%20Data-set%20Machine%20Learning%20Project)
-  - [Exploratory Data Analysis of Gene Expression in Dengue Spectrum Disorders](https://github.com/Djinho/Djinho.github.io/tree/main/Exploratory%20Data%20Analysis%20of%20Gene%20Expression%20in%20Dengue%20Spectrum%20Disorders)
   - [Sonar Signal Analysis for Object Classification: Differentiating Between Mines and Rocks](https://github.com/Djinho/Djinho.github.io/tree/main/Sonar%20Signal%20Analysis%20for%20Object%20Classification%3A%20Differentiating%20Between%20Mines%20and%20Rocks)
   - [Support Vector Machine for Diabetes Prediction](https://github.com/Djinho/Djinho.github.io/tree/main/Sonar%20Signal%20Analysis%20for%20Object%20Classification%3A%20Differentiating%20Between%20Mines%20and%20Rocks)
   -  [Predictive Analysis of  Heart Disease Using Logistic Regression](https://github.com/Djinho/Djinho.github.io/tree/e4d34e355da3c4a2f550a107fee151a4525f4f4d/Predictive%20Analysis%20of%20Heart%20Disease%20Using%20Logistic%20Regression)
