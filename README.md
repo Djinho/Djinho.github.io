@@ -9,8 +9,8 @@
   - <a href="https://github.com/Djinho/Djinho.github.io/tree/main/Sonar%20Signal%20Analysis%20for%20Object%20Classification%3A%20Differentiating%20Between%20Mines%20and%20Rocks">Support Vector Machine for Diabetes Prediction</a>
   - <a href="https://github.com/Djinho/Djinho.github.io/tree/e4d34e355da3c4a2f550a107fee151a4525f4f4d/Predictive%20Analysis%20of%20Heart%20Disease%20Using%20Logistic%20Regression">Predictive Analysis of Heart Disease Using Logistic Regression</a>
 
-<!-- Rosalina Inspired Projects -->
-- <b>Rosalina Inspired Projects</b>
+<!-- Rosalind Inspired Projects -->
+- <b>Rosalind Inspired Projects</b>
   - <a href="https://github.com/Djinho/Djinho.github.io/tree/main/GC%20Content%20Analyzer%20for%20DNA%20Sequences">GC Content Analyzer for DNA Sequences</a>
   - <a href="https://github.com/Djinho/Djinho.github.io/tree/main/DNA%20Sequence%20Hamming%20Distance%20Calculator">DNA Sequence Hamming Distance Calculator</a>
   - <a href="https://github.com/Djinho/Djinho.github.io/tree/main/Dominant%20Allele%20Probability%20Calculator">Dominant Allele Probability Calculator</a>
